@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Neural style transfer
+description: Style transfer using VGG-19 with content reconstruction and style synthesis losses.
+img: assets/img/neural_style_transfer.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: academic
+redirect: https://www.andrew.cmu.edu/course/16-726-sp24/projects/yifeil5/proj4/
 ---
 
 Every project has a beautiful feature showcase page.

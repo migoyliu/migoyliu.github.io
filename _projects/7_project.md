@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Medical Image Analysis
+description: Deep learning for classifying tumor patches in cancer histopathlogy images and segmenting blood vessels in brain CT slides.
+img: assets/img/wikm.jpg
 importance: 1
 category: work
-related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Sim2Real Autonomous Navigation
+description: Semantic perception, Unreal Engine, zero-shot sim2real transfer of Reinforcement Learning agents for real-world navigation.
+img: assets/img/duckietown.jpg
+importance: 1
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

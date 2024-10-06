@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: FIReStereo
+description: Depth perception using stereo thermal cameras for UAV navigating in visually-degraded environments. Involves thermal processing, thermal calibration, LiDAR-SLAM, sensor fusion, image processing, stereo depth estimation, etc.
+img: assets/img/firestereo_preview.jpg
 importance: 1
 category: work
 related_publications: true
+redirect: https://firestereo.github.io/
 ---
 
 Every project has a beautiful feature showcase page.

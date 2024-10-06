@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Fire Ember Detection
+description: Wildfire simulation rendering, data collection pipeline in Unreal Engine, tiny ember object detection.
+img: assets/img/firefly.jpg
+importance: 2
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
