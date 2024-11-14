@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Sim2Real Autonomous Navigation
-description: Semantic perception, Unreal Engine, zero-shot sim2real transfer of Reinforcement Learning agents for real-world navigation.
-img: assets/img/duckietown.jpg
-importance: 1
-category: work
+title: Neural style transfer
+description: Style transfer using VGG-19 with content reconstruction and style synthesis losses.
+img: assets/img/neural_style_transfer.jpg
+importance: 2
+category: fun
+redirect: https://www.andrew.cmu.edu/course/16-726-sp24/projects/yifeil5/proj4/
 ---
 
 Every project has a beautiful feature showcase page.

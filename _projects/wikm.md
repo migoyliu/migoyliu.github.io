@@ -1,16 +1,19 @@
 ---
 layout: page
-title: Neural style transfer
-description: Style transfer using VGG-19 with content reconstruction and style synthesis losses.
-img: assets/img/neural_style_transfer.jpg
+title: Medical Image Analysis
+description: Deep learning for classifying tumor patches in cancer histopathlogy images and segmenting blood vessels in brain CT slides.
+img: assets/img/wikm.jpg
 importance: 2
-category: academic
-redirect: https://www.andrew.cmu.edu/course/16-726-sp24/projects/yifeil5/proj4/
+category: work
+redirect: https://docs.google.com/presentation/d/18LL2NhRaWftMmpGJkYlbB1U2dkD9F69T4EM7tSVVzdI/edit?usp=sharing
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+As a research personnel at the UCI <a href="https://www.caidm.som.uci.edu/">Center for Artificial Intelligence in Diagnostic Medicine</a>, I developed classification and segmentation tools for medical imaging to facilitate disease diagnosis.
+
+While many research has gone into cancer detection since the growth of deep learning, most have focused on analysis with CT scans. Whole slide images (WSI) stained with hematoxylin and eosin (H&E) in digital pathology has been the gold standard for identifying different type of cells and tissues. 2 scenarios: Pathologists 
+
+Lung adenocarcinoma is the most frequently diagnosed lung cancer in the United States and osteosarcoma is one of the most common forms of cancers for children, adolescents, and young adults.  
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
@@ -44,8 +47,8 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
+You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">

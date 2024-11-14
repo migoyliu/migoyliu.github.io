@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Collection of research work and academic projects.
+description: Selected research work and academic projects. #Collection of research work and academic projects.
 nav: true
-nav_order: 3
-display_categories: [work, academic]
+nav_order: 2
+display_categories: #[work, academic]
 horizontal: false
 ---
 

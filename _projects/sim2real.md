@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Fire Ember Detection
-description: Wildfire simulation rendering, data collection pipeline in Unreal Engine, tiny ember object detection.
-img: assets/img/firefly.jpg
-importance: 2
+title: Sim2Real Autonomous Navigation
+description: Semantic perception, Unreal Engine, zero-shot sim2real transfer of Reinforcement Learning agents for real-world navigation.
+img: assets/img/duckietown.jpg
+importance: 1
 category: work
+redirect: https://docs.google.com/presentation/d/1JHJGtzOIWVRP0Ea9oOdGzt9Y0KDVGqlp21S1wwM91x0/edit?usp=sharing
 ---
 
 Every project has a beautiful feature showcase page.

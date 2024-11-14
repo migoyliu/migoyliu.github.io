@@ -5,5 +5,5 @@ description: Unpaired image translation for data augmentation using one-step dif
 img: assets/img/offroad_turbo.gif
 redirect: https://www.andrew.cmu.edu/course/16-726-sp24/projects/yifeil5/project/
 importance: 1
-category: academic
+category: work
 ---
