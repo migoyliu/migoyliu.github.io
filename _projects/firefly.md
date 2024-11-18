@@ -6,10 +6,9 @@ img: assets/img/firefly.jpg
 importance: 2
 category: work
 ---
+Throughout high school and college, I witnessed multiple wildfires in Los Angeles, some of which occurred in my own neighborhood. These experiences motivated me to contribute my efforts toward addressing this critical issue. In the summer of 2022, I joined <a href="https://sites.usc.edu/eessc/">USC E2S2C</a> Group as an <a href="https://viterbischool.usc.edu/news/2022/02/usc-and-amazon-announce-joint-summer-research-program-for-undergraduates/">Amazon SURE</a> Research Fellow to advance wildfire management with simulation and machine learning. 
 
-After witnessing multiple wildfires in LA, in the summer of 2022, I joined <a href="https://sites.usc.edu/eessc/">USC E2S2C</a> Group as an <a href="https://viterbischool.usc.edu/news/2022/02/usc-and-amazon-announce-joint-summer-research-program-for-undergraduates/">Amazon SURE</a> Research Fellow to advance wildfire management with simulation and machine learning. 
-
-During wildfires, embers can travel miles in wind and cause up to 90% of home ignition. The ultimate goal of this project is to detect and extinguish them with UAV before they spread the fire. While there are many datasets for fire and smoke detection, there is none for tiny ember, making them infessible to detect. This motivated us to create FireFly, a synthetic dataset that enables zero-shot ember detection in real wildfire scenarios.
+During wildfires, embers can travel miles in wind and cause up to 90% of home ignition. The ultimate goal of this project is to detect and extinguish them with UAV before they spread the fire. While there are many datasets for fire and smoke detection, there is none for tiny ember, making them infessible to detect. This challenge motivated us to create FireFly, a synthetic dataset that enables zero-shot ember detection in real wildfire scenarios.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

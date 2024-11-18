@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FIReStereo
-description: Depth perception using stereo thermal cameras for UAV navigating in visually-degraded environments. Involves thermal processing, thermal calibration, LiDAR-SLAM, sensor fusion, image processing, stereo depth estimation, etc.
+description: Depth perception using stereo thermal cameras for UAV navigating in visually-degraded environments. Involves thermal processing, thermal calibration, LiDAR-SLAM, sensor fusion, image processing, stereo depth estimation.
 img: assets/img/firestereo_preview.jpg
 importance: 1
 category: work
