@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started interning at NASA Jet Propulsion Laboratory, Robotics Systems Section
+Started interning at NASA Jet Propulsion Laboratory, Robotics Section
