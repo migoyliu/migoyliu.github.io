@@ -15,7 +15,7 @@ category: work
     Offroad ATV driving in darkness at our test site, Gascola, PA.
 </div>
 
-Bringing a full-scale ATV into unstructured terrain at night, in complete darkness, is not easy. At the AirLab, I've had the opportunity to work with an incredible team to tackle this challenge, contributing across the entire stack from sensor integration, to perception, autonomy, and field testing.
+Bringing a full-scale ATV into unstructured terrain at night is not easy. At the AirLab, I've had the opportunity to work with an incredible team to tackle this challenge, contributing across the entire stack from sensor integration, to perception, autonomy, and field testing.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
